@@ -32,8 +32,13 @@ Role: Ruby Developer
 Accomplishments: Service for booking tables in the MobiDev offices. Took an active part in the design and database architecture of the application. Engaged in the integration of the OAuth2 and synchronization of all users from other services to the project. Also, took a part in developing an admin panel.
 Applied technologies and skills: Ruby, Rails, Sidekiq, Redis, Dry Monads, Docker, Postgres, Stimulus JS, Administrate, CI/CD.
 
+Project: Chronos
+Role: PHP and JavaScript Developer
+Accomplishments: Chronos is a question-and-answer website for programmers (similar to Stack Overflow). Utilized React and Laravel Frameworks to drive a project from its initial idea to its final implementation. Managed all stages of the project, including planning, development, testing, and deployment.
+Applied technologies: PHP, Laravel, React, Axios, Sqlite.
+
 Project: Webster
-Role: PHP Developer
+Role: PHP and JavaScript Developer
 Accomplishments: Graphic editor application similar to Photoshop developed on the Laravel API and React using axios. This project is a part of the Ucode tutorial. Took part in development of the user model on the backend. Engaged in creating registration, login, password reset via mail, user profile, password change. Also participated in the design of the application.
 Applied technologies: PHP, Laravel, React, Axios, MySQL.
 
